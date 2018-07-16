@@ -1,3 +1,0 @@
-RewriteEngine on
-RewriteCond %{REQUEST_URI} ^/$
-Rewriterule ^(.*)$ https://w1osteopath.co.uk/ [L,R=301]
