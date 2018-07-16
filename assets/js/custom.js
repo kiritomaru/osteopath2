@@ -11,14 +11,14 @@ jQuery(function($) {
 
   /* ------ Countdown ----- */
 
-  $('#countdown').countdown({
-  			date: '11/01/2016 17:00:00',
-  			offset: +2,
-  			day: 'Day',
-  			days: 'Days'
-  		}, function () {
-  			alert('Done!');
-  		});
+//   $('#countdown').countdown({
+//   			date: '11/01/2016 17:00:00',
+//   			offset: +2,
+//   			day: 'Day',
+//   			days: 'Days'
+//   		}, function () {
+//   			alert('Done!');
+//   		});
 
 
 /*----- Preloader ----- */
